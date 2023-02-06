@@ -1,4 +1,4 @@
-# <div align="center">Hey 👋, I'm Mesut TUNÇER!</div>  
+# <div align="center">Hi 👋, I'm Mesut TUNÇER!</div>  
   
 
 <br/>  
